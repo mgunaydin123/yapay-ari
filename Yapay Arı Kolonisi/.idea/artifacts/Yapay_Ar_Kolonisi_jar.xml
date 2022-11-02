@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Yapay Arı Kolonisi:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Yapay_Ar_Kolonisi_jar</output-path>
+    <root id="archive" name="Yapay Arı Kolonisi.jar">
+      <element id="module-output" name="Yapay Arı Kolonisi" />
+    </root>
+  </artifact>
+</component>
